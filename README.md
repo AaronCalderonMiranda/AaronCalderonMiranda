@@ -26,6 +26,9 @@
 ![C#](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 &nbsp;
 
+![C#](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+&nbsp;
+
 
 ### <u> Backend Development: </u>
 <br>
